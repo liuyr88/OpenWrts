@@ -1,4 +1,4 @@
-name: Raspberry Pi3B+
+name: Raspberry Pi3B+ Line
 
 on:
   repository_dispatch:
